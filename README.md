@@ -18,3 +18,6 @@ venv/Scripts/activate
 pip install flask
 
 python app.py
+-----------------------------------------------
+What is our GOAL for this MODULE? 
+We learned about the jQuery ajax() method and usedthe jQuery ajax() method call to update the score result of the Mad Libs story.
